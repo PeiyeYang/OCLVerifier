@@ -1,5 +1,6 @@
 # OCLVerifier-Release
 
+Download: https://github.com/PeiyeYang/OCLVerifier/releases/
 Required: JDK11
 
 1. Run **rm2pt.exe**
